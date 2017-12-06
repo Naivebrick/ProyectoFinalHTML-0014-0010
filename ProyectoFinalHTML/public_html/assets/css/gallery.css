@@ -1,0 +1,25 @@
+div.thumbnail.retrato{
+  background-color:rgba(3,3,3,0.79);
+}
+
+div.caption{
+  font:20px cookie;
+}
+
+h3.galleryphotoheading{
+  font:40px cookie;
+  color:rgb(9,237,177);
+}
+
+p.galleryphotoparagraph{
+  color:rgb(9,237,177);
+}
+
+h1.gallery-heading{
+  text-align:center;
+  margin-top:90px;
+  margin-bottom:38px;
+  font:58px cookie;
+  color:black;
+}
+

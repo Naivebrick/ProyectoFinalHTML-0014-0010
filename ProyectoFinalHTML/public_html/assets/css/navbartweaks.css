@@ -1,0 +1,97 @@
+a.nav-home{
+  margin-right:2px;
+  text-align:center;
+}
+
+a.nav-gallery{
+  margin-right:5px;
+  text-align:center;
+}
+
+a.dropdown-toggle.nav-social{
+  margin-right:6px;
+  text-align:center;
+}
+
+a.dropdown-toggle.nav-contact{
+  margin-right:6px;
+  text-align:center;
+}
+
+a.dropdown-toggle.nav-support{
+  margin-right:6px;
+  text-align:center;
+}
+
+ul.dropdown-menu.dropdown-menu-left{
+  background-color:rgba(139,135,135,0.85);
+}
+
+ul.dropdown-menu{
+  background-color:rgba(156,152,151,0.85);
+}
+
+i.fa.fa-facebook-official{
+  margin-left:10px;
+  color:blue;
+}
+
+i.fa.fa-google-plus{
+  margin-left:18px;
+  color:orange;
+}
+
+i.fa.fa-instagram{
+  margin-left:16px;
+  color:orangered;
+}
+
+i.fa.fa-tumblr-square{
+  margin-left:27px;
+  color:darkcyan;
+}
+
+i.fa.fa-yahoo{
+  margin-left:32px;
+  color:purple;
+}
+
+i.fa.fa-youtube-square{
+  margin-left:18px;
+  color:red;
+}
+
+i.fa.fa-phone-square{
+  margin-left:15px;
+  color:rgb(29,10,248);
+}
+
+i.fa.fa-envelope-o{
+  margin-left:13px;
+  color:red;
+}
+
+i.fa.fa-location-arrow{
+  margin-left:4px;
+  color:green;
+}
+
+i.fa.fa-user{
+  margin-left:15px;
+  color:lightblue;
+}
+
+i.fa.fa-dollar{
+  margin-left:64px;
+  color:lightgreen;
+}
+
+i.fa.fa-question-circle{
+  margin-left:92px;
+  color:lightblue;
+}
+
+button.navbar-toggle.collapsed{
+  background-color:rgba(1,34,26,0.39);
+}
+
